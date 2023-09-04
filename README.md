@@ -16,4 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=47C5FBt)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=json&logoColor=47C5FBt)
 
-Follow me
+### Follow me
+[![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FBt)](https://t.me/axe2256)
+[![INSTAGRAM](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=47C5FBt)](https://instagram.com/meta_personality?utm_source=qr&igshid=OGU0MmVlOWVjOQ==)
