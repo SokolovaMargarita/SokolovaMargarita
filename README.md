@@ -3,7 +3,6 @@
 ## I'm a beginner Tester
 
 ### Languages and Tools
-
 ![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=47C5FBt)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=47C5FBt)
 ![SWAGGER](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger&logoColor=47C5FBt)
@@ -19,3 +18,6 @@
 ### Follow me
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FBt)](https://t.me/axe2256)
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=47C5FBt)](https://instagram.com/meta_personality?utm_source=qr&igshid=OGU0MmVlOWVjOQ==)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SokolovaMargarita&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
